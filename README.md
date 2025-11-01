@@ -9,13 +9,13 @@ Activate the virtual environment:
 - **On Windows:**
 
 ```bash
-reversi_env\Scripts\activate
+venv\Scripts\activate
 ```
 
 - **On macOS/Linux:**
 
 ```bash
-source reversi_env/bin/activate
+source venv/bin/activate
 ```
 
 ## Install Dependencies
